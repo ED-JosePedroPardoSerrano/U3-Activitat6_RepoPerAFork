@@ -42,7 +42,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 
 
 #### AlumneFila1 PC3:
-
+José Pedro: He hecho un fork entornsdam/U3-Activitat6_RepoPerAFork. He creado una nueva rama llamada Jose. En ella, modificado el archivo MissatgesNadalencs.java para incluir un mensaje con mi nombre, una felicitación navideña y un buen deseo para año nuevo. Después, he modificado este mismo archivo: README.md para incluir estas líneas. Finalmente, he mandado un mensaje al dueño del repositorio para que acepte los cambios si los cree pertinentes. 
 
 #### AlumneFila1 PC4:
 
