@@ -111,7 +111,7 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila1PC3() {
-
+		System.out.println("Hola, soy José Pedro. Feliz navidad tengan quienes lean este mensaje.\nY un próspero año nuevo lleno de felicidad, salud y dinerico fresco.");
 	}
 
 	private static void AlumneFila1PC4() {
